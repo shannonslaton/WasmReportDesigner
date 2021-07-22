@@ -11,7 +11,7 @@ using Telerik.WebReportDesigner.Services.Controllers;
 
 namespace WasmReportDesigner.Server.Controllers
 {
-    [Route("api/reportdesigner1")]
+    [Route("api/reportdesigners")]
     [ApiController]
 
     public class ReportDesignerController : ReportDesignerControllerBase
